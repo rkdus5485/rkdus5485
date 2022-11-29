@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: rkdus5485@naver.com
 - 🤔 More about me
   - [연구포트폴리오_김가연.pdf](https://github.com/rkdus5485/rkdus5485/files/9945383/_.pdf)
+- 🔭 Published Papers
+  - [미세조정에 의한 BERT 계층의 재학습 양상](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11035829)
+  - [BERT 계층에 따른 단어간 관계 변화 분석](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113474)
